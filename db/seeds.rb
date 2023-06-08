@@ -1,0 +1,5 @@
+Product.create(name: "tvset", desc: "smart tv", amount: 1000, image: "http://image.com")
+Product.create(name: "iphone", desc: "smart tv", amount: 4000, image: "http://image.com")
+Product.create(name: "laptop", desc: "smart tv", amount: 1000, image: "http://image.com")
+Product.create(name: "desktop", desc: "smart tv", amount: 8000, image: "http://image.com")
+Product.create(name: "cooker", desc: "smart tv", amount: 10000, image: "http://image.com")
